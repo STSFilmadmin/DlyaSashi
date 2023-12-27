@@ -1,10 +1,10 @@
 package com.dmdev.oop.lesson11;
 
-public class Ssd {
+public class Ram {
 
     private int value;
 
-    public Ssd(int value) {
+    public Ram(int value) {
         this.value = value;
     }
 
